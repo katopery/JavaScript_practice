@@ -1,4 +1,10 @@
 $(function()
 {
-  $('.box1').slideUp(1000)
+  $('.box1').show();
+  $('.box1').css
+    (
+      {
+        'background-color': '#0000FF'
+      }
+    );
 });
