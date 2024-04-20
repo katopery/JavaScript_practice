@@ -1,10 +1,10 @@
 $(function()
 {
-  $('.box1').show();
-  $('.box1').css
+  $('.box1').hide();
+/*  $('.box1').css
     (
       {
         'background-color': '#0000FF'
       }
-    );
+    );*/
 });
